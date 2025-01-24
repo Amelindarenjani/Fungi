@@ -1,0 +1,148 @@
+* {
+  font-family: "Lato", sans-serif;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding-top: 70px;
+}
+
+.container {
+  text-align: center;
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: scroll;
+}
+
+h1 {
+  color: #333;
+}
+
+.form {
+  margin-bottom: 20px;
+  margin-top: 25px;
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+textarea {
+  width: 40%;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3c5b6f;
+}
+
+#result {
+  font-weight: bold;
+}
+
+.bg {
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.05),
+      rgba(255, 255, 255, 0.05)
+    ),
+    url("assets/skincare2.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 45vh;
+}
+.bg h1 {
+  font-weight: bold;
+  color: #153448;
+  font-size: 64px;
+}
+#tombol {
+  padding-top: 24px;
+}
+
+.navbar {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.navbar-nav {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar-brand {
+  font-size: 40px;
+  padding-left: 25px;
+  font-weight: 700;
+}
+
+.cover-title {
+  color: white !important;
+}
+
+.scan-below {
+  padding: 10px 20px;
+  background-color: white;
+  border-radius: 30px;
+}
+
+.scan-below-text {
+  color: black;
+  margin: auto;
+  font-weight: 500;
+}
+
+.btn {
+  border-radius: 30px !important;
+}
+
+.btn-success {
+  color: rgb(20, 92, 20);
+}
+
+.result {
+  margin: auto;
+  text-align: center;
+  font-size: 18px;
+}
+
+.content1 {
+  background-color: #e1ecc8;
+  color: #1a5319;
+}
+
+.content2 {
+  background-color: #f7f7e8;
+  color: #294b29;
+}
+
+.content3 {
+  background-color: #dbe7c9;
+  color: #294b29;
+}
+
+.content4 {
+  background-color: #f7f7e8;
+  color: #294b29;
+}
+
+.content5 {
+  background-color: #d2e3c8;
+  color: #294b29;
+}
